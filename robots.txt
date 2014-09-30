@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://odeklas.github.io/sitemap.xml 
